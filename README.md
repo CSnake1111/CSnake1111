@@ -1,26 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Luis%20Developer&fontSize=50&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Java%20Developer%20%7C%20SQL%20Server&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:00F5FF&height=240&section=header&text=MinuitVolk&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Cybersecurity%20Student%20|%20Java&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFCC&size=28&center=true&vCenter=true&width=1000&lines=Cybersecurity+Student;Java+Developer;Android+Developer;SQL+Server+Developer;Building+Secure+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F5FF&size=24&center=true&vCenter=true&width=900&lines=Systems+Engineering+Student;Java+Backend+Developer;Cybersecurity+Enthusiast;Building+Real+Projects;Coffee+%2B+Music+%2B+Code)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 💻 About Me
+```bash
+> whoami
 
-```yaml
-Name: Luis
-Location: Guatemala
-Focus:
-  - Cybersecurity
-  - Backend Development
-  - Android Development
-  - Database Systems
+Luis Eduardo Godínez
+Systems Engineering Student from Guatemala
 
-Currently Working On:
-  - POS Systems
-  - Biometric Authentication
-  - Android Shopping App
-  - Medical Appointment System
+Focused on:
+- Backend Development
+- Secure Systems
+- Databases
+- Automation
+- Cybersecurity
+
+Currently building:
+- POS Systems
+- Biometric Authentication
+- User Management Systems
+
+Status:
+Learning, building and improving every day.
